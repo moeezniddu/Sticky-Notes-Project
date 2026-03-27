@@ -334,12 +334,15 @@ python manage.py collectstatic
 
 ## 👨‍💻 Author
 
-**Created for:** Web Engineering Assignment  
+**Created for:** Web Developoment Mini Project  
 **Institution:** National University of Computing and Emerging Sciences (FAST-NUCES)
 
+
 ### Assignment Details
-- **Course:** Web Engineering
-- **Assignment:** #2 - Django Assignment
+- **Course:** Web Developoment
+- **Assignment:** #02 - Django Assignment
+- **Name :** Moeez Uddin
+- **Roll Number :** 22P-9203
 - **Project:** Sticky Notes App
 
 ---
